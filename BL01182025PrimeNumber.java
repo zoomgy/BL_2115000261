@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class BL01182025PrimeNumber {
@@ -19,5 +18,6 @@ public class BL01182025PrimeNumber {
                 System.out.print(i + "    ");
             }
         }
+        sc.close();
     }
 }
